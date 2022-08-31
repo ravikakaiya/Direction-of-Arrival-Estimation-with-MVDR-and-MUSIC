@@ -12,4 +12,4 @@ MUSIC
 <img src="result.JPG">
 
 MVDR
-<img src="Term.png">
+<img src="mvdr.png">
