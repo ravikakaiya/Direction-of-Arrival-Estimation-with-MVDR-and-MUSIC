@@ -5,5 +5,4 @@ o Aim : To estimate the direction of arrival using MVDR and MUSIC algorithms a
 <img src="setup.png">
 
 # Covariance Matrix
-
 <img src="cov_mat.jpg">
