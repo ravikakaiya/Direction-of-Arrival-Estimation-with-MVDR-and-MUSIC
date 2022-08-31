@@ -8,4 +8,8 @@ o Aim : To estimate the direction of arrival using MVDR and MUSIC algorithms a
 <img src="cov_mat.JPG">
 
 # Result
+MUSIC
 <img src="result.JPG">
+
+MVDR
+<img src="Term.png">
